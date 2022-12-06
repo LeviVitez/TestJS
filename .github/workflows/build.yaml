@@ -10,12 +10,12 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: action/checkout@v3
+      - uses: actions/checkout@v3
 
       - name: Install Node
-        uses: action/setup-node@v3
+        uses: actions/setup-node@v3
         with:
           node-version: 16.13
       - run: npm install
       - run: run sass ./sass/style.scss ./build/css/style.css
-      - run: ls -lha ./build/css
+      - run: ls -lha ./build/css/
