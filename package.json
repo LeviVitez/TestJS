@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/LeviVitez/TestJS/issues"
   },
-  "homepage": "https://github.com/LeviVitez/TestJS#readme"
+  "homepage": "https://github.com/LeviVitez/TestJS#readme",
+  "dependencies": {
+    "sass": "^1.56.1"
+  }
 }
