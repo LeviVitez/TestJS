@@ -1,0 +1,19 @@
+{
+  "name": "vers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeviVitez/TestJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeviVitez/TestJS/issues"
+  },
+  "homepage": "https://github.com/LeviVitez/TestJS#readme"
+}
